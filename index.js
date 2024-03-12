@@ -5,9 +5,9 @@ const express = require(`express`)
 const app = express()
 
 let roleModel = {
-    name: "Daddy",
+    name: "Dad",
     occupation: "Doctor",
-    languages:["Spanih"]
+    languages:["Spanish"]
   }
 
 app.get('/roleModel',(request,response)=>{
