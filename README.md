@@ -98,11 +98,11 @@ The JSON object should look like the following:
 <br>
 
   ```javascript
-   let roleModel = {
-      "name": "Margot Robbie",
-      "occupation": "Actor",
-      "languages":["English"]
-    }
+    let roleModel = {
+        name: "Margot Robbie",
+        occupation: "Actor",
+        languages:["English"]
+      }
   ```
 
 ### Iteration 3 | Listen on port 5005
@@ -113,6 +113,13 @@ At the moment when we run the index.js file the application doesn't await a requ
 ### Iteration 4 | Test the route in postman
 
 Send a request in postman to the route we created in iteration 2. The response should be the object containing the role model information
+
+<br>
+
+Expected Result:
+
+<br>
+![image](https://github.com/omarakamal/lab-intro-to-node-express/assets/54825038/de5761dd-294d-4358-a01f-c89ca6094c21)
 
 
 ## FAQs
