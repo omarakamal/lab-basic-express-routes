@@ -119,7 +119,7 @@ Send a request in postman to the route we created in iteration 2. The response s
 Expected Result:
 
 <br>
-![image](https://github.com/omarakamal/lab-intro-to-node-express/assets/54825038/de5761dd-294d-4358-a01f-c89ca6094c21)
+[image](https://github.com/omarakamal/lab-intro-to-node-express/assets/54825038/de5761dd-294d-4358-a01f-c89ca6094c21)
 
 
 ## FAQs
