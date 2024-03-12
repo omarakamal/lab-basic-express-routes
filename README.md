@@ -27,9 +27,6 @@
 ## Introduction
 
 In this lab we will practice creating a basic Node application and writing the basic routes using express. Finally we will test the routes using postman
-<p align="center">
-  <img src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-express-basic-server/00-lab-express-basic-site-overview.png" alt="Example - Finished LAB" width="700" />
-</p>
 
 
 <br>
